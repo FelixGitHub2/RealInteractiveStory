@@ -1,0 +1,15 @@
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\bin\Debug\net6.0\RealInteractiveStory.exe
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\bin\Debug\net6.0\RealInteractiveStory.deps.json
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\bin\Debug\net6.0\RealInteractiveStory.runtimeconfig.json
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\bin\Debug\net6.0\RealInteractiveStory.dll
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\bin\Debug\net6.0\RealInteractiveStory.pdb
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.csproj.AssemblyReference.cache
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.AssemblyInfoInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.AssemblyInfo.cs
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.csproj.CoreCompileInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.dll
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\refint\RealInteractiveStory.dll
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.pdb
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\RealInteractiveStory.genruntimeconfig.cache
+C:\Users\felix.elliot\Documents\Programering 1\RealInteractiveStory\RealInteractiveStory\obj\Debug\net6.0\ref\RealInteractiveStory.dll
